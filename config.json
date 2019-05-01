@@ -1,0 +1,1 @@
+{"num_hidden": 1024, "data_folder": "vox_fox", "num_features": 161, "num_layers": 3, "batch_size": 10, "lr": 0.000959809440525076, "data_root": "/home/sumuk/mfcc/data_folder", "num_filters": 128, "graph_path": "/home/sumuk/mfcc/asr_uni_indian/graphs", "dropout": 0, "num_classes": 38, "model_path": "/home/sumuk/mfcc/asr_uni_indian/model"}
